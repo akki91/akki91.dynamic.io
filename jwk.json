@@ -1,4 +1,6 @@
 {
+"keys": [
+{
   "crv": "P-256",
   "key_ops": [
     "verify"
@@ -9,4 +11,6 @@
   "alg": "ES256",
   "use": "sig",
   "kid": "937e4c70a854ae1e99e6f547018163bd"
+}
+]
 }
